@@ -1,0 +1,9 @@
+.MovieList {
+  /* display: ; */
+  margin-top: 2%;
+}
+
+.movieCard {
+  display: inline;
+  background-color: black;
+}

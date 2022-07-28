@@ -1,0 +1,18 @@
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  background-color: darkcyan;
+  height: 5rem;
+}
+.icon {
+  text-decoration: none;
+  margin: 1rem;
+  color: azure;
+}
+.search {
+  outline: none;
+  border: none;
+  /* font-size: 20px; */
+  background: none;
+  color: azure;
+}
